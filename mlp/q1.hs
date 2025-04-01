@@ -1,1 +1,1 @@
-print("hello world")
+a carolina é o amor da  minha vida 
